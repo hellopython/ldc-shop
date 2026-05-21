@@ -1,5 +1,5 @@
 {
-    "name": "ldc-shop",
+    "name": "ldc-shop-next",
     "main": "worker-entry.mjs",
     "keep_names": true,
     "keep_vars": true,
